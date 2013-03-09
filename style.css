@@ -96,6 +96,10 @@ h2{
 	margin: 0 auto;
 	overflow: hidden;
 	padding: 0;
+	overflow:auto; /* This will add a scroll when required */
+  	width:50%;
+  	float:left;
+  	height: 100%
 }
 
 #second .bg{
